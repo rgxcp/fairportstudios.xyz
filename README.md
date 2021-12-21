@@ -1,4 +1,4 @@
-# HTML/CSS/JavaScript - Fairport Studios
+# ✈️ HTML/CSS/JavaScript - Fairport Studios
 **EN**: Source code for fairportstudios.xyz website.
 
 **ID**: Sumber kode untuk website fairportstudios.xyz.
